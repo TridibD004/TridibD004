@@ -30,11 +30,7 @@
     <a href="https://www.javascript.com/"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/no-linux.png"/> </a>
-    <a href="https://notepad-plus-plus.org/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png"/> </a> 
     <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
-    <a href="https://www.codechef.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/codechef.png"/> </a>   
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/open-source--v1.png"/> </a> 
     <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/> </a>
     <a href="https://expressjs.com" target="_blank">  </a>
 </p>
