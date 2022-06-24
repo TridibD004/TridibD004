@@ -1,6 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
+</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tridib</h1>
+<h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;">  I'm <a href="#"> Tridib </a> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px" height="50px"></h1>
 <h3 align="center">I'm a student and learner from India.</h3>
 
 
@@ -76,3 +78,4 @@
     <img src="https://komarev.com/ghpvc/?username=TridibD004">
 </a>
 <a href="https://github.com/TridibD004?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
+
