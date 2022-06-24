@@ -7,7 +7,7 @@
 
 <br>
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<img align='right' src="https://github.com/TridibD004/TridibD004/blob/master/%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81.gif">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently a Student of  **[Academy of Technology](https://aot.edu.in/)**
@@ -35,11 +35,9 @@
     <a href="https://www.python.org" target="_blank"> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
-    <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/> </a>
-    <a href="https://expressjs.com" target="_blank">  </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<!-- [![React Badge](https://img.shields.io/badge/-React-0A05BA?style=for-the-badge&labelColor=black&logo=react&logoColor=0A05BA)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-AB0718?style=for-the-badge&labelColor=black&logo=javascript&logoColor=AB0718)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 ## &nbsp; &nbsp; &nbsp;🔥 My Motto
@@ -68,7 +66,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Tridib Dalui's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TridibD004&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Tridib Dalui's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TridibD004&bg_color=0D1117&color=3F05BA&line=BA0554&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
