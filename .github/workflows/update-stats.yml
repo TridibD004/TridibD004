@@ -9,7 +9,6 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: windows
     steps:
       - uses: TridibD004/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
