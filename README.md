@@ -106,10 +106,24 @@ Sunday            ████████░░░░░░░░░░░░�
 
 </p>
 
+### Coding Platfroms :- 
+<p align="left">
+<a href = "https://www.codechef.com/users/tridib_004"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+                        height="50" width="60" /></a>
+<a href = "https://www.hackerrank.com/tridibdalui04"><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg"
+                        height="50" width="60" /></a>
+<a href = "https://leetcode.com/tridibdalui04/"><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg"
+                        height="50" width="60" /></a>
+</p>
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TridibD004">
 </a>
 <a href="https://github.com/TridibD004?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<p align="center">
+  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+</p>
