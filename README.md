@@ -106,9 +106,6 @@ Sunday            ████████░░░░░░░░░░░░�
 
 </p>
 
-### Coding Platfroms :-
- <p align="left">
- </p>
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
