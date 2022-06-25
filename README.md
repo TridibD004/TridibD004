@@ -110,13 +110,17 @@ Sunday            ████████░░░░░░░░░░░░�
 <p align="left">
 <a href = "https://www.codechef.com/users/tridib_004"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-                        height="50" width="60" /></a>
+                        height="40" width="50" /></a>
 <a href = "https://www.hackerrank.com/tridibdalui04"><img align="center"
                         src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg"
-                        height="50" width="60" /></a>
+                        height="40" width="50" /></a>
 <a href = "https://leetcode.com/tridibdalui04/"><img align="center"
                         src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg"
-                        height="50" width="60" /></a>
+                        height="40" width="50" /></a>
+ <a href = "https://auth.geeksforgeeks.org/user/tridibd04/practice"><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg"
+                        height="40" width="50" /></a>
+ 
 </p>
  
 ## ❤ Views and Followers
