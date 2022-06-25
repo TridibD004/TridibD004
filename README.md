@@ -95,6 +95,8 @@ Sunday            ████████░░░░░░░░░░░░�
 
 
 ## Connect with me:
+
+### Social :- 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/tridib-dalui-236039213//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -104,6 +106,10 @@ Sunday            ████████░░░░░░░░░░░░�
 
 </p>
 
+### Coding Platfroms :-
+ <p align="left">
+ </p>
+ 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TridibD004">
