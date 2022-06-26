@@ -8,6 +8,7 @@
 <br>
 
 <img align='right' src="https://github.com/TridibD004/TridibD004/blob/master/src/%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81.gif" width="300">
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently a Student of  **[Academy of Technology](https://aot.edu.in/)**
