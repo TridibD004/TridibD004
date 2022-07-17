@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TridibD004/TridibD004/blob/master/src/Debbie%20Balboa.gif" width="200px">
+  <img src="https://github.com/TridibD004/TridibD004/blob/master/src/Debbie%20Balboa.gif" width="400px">
 </p>
 
 <h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;">  I'm <a href="#"> Tridib </a> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px" height="50px"></h1>
