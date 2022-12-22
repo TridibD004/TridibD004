@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://github.com/TridibD004/TridibD004/blob/master/src/Debbie%20Balboa.gif" width="400px">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="400px">
 </p>
 
-<h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;">  I'm <a href="#"> Tridib </a> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px" height="50px"></h1>
+<h1 align="center"> Hello <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Tridib </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
 <h3 align="center">I'm a student and learner from India.</h3>
 
 <br>
 
-<img align='right' src="https://github.com/TridibD004/TridibD004/blob/master/src/%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81.gif" width="300">
+<img align='right' src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" width="300">
 
 ## 🙋‍♂️ About Me
 
