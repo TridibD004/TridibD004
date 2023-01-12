@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently a Student of  **[Academy of Technology](https://aot.edu.in/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **ML** & **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
