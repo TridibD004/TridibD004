@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="400px">
 </p>
 
-<h1 align="center"> Hello <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Tridib </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
+<h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Tridib </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
 <h3 align="center">I'm a student and learner from India.</h3>
 
 <br>
